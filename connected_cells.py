@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        WhatsAppBot
+# Name:        Connected cells in grid
 # Purpose:
 #
 # Author:      Ravi Kaipu
