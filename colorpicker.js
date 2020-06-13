@@ -3,7 +3,7 @@
    Libray : ColorPicker
    Description:
    ColorPiker is a library used for selecting the suitable colors
-   and font-families of the specific targeted elements, which can easy
+   and font-families of the specific targeted elements, which can ease
    color picking process of html elements.
 
    For example, if we want to pick the suitable colors for specific div
